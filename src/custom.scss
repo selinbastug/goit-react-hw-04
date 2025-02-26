@@ -1,0 +1,15 @@
+$theme-colors: (
+  "primary": #473192,
+  "secondary": #c75c3b,
+  "success": #0ea563,
+  "info": #cc901d,
+  "warning": #e0cc0e,
+  "danger": #ef2405,
+  "light": #e4e7eb,
+  "dark": #0f1668,
+  "white": #ffffff,
+);
+
+$theme-font-family: "Roboto", serif;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
